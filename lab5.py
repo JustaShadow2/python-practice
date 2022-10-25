@@ -34,7 +34,7 @@ f.close()'''
 
 # text = open("text.txt", "r")
 # myfile = open("myfile.txt", "w")
-# for line in f:
+# for line in text:
 #     words = line.split()
 #     for word in words:
 #         print(word)
