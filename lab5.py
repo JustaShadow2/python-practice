@@ -39,5 +39,5 @@ f.close()'''
 #     for word in words:
 #         print(word)
 #         f2.write(word + "\n")
-# f.close()
-# f2.close()
+# text.close()
+# myfile.close()
